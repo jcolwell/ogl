@@ -1,0 +1,116 @@
+﻿  
+  Searching libraries
+      Searching C:\Users\jcolwell\Desktop\GameEngine\Engine\..\Build\Debug\x64\Utilities.lib:
+      Searching C:\Users\jcolwell\Desktop\GameEngine\Engine\..\Build\Debug\x64\Math.lib:
+      Searching C:\Users\jcolwell\Desktop\GameEngine\Engine\..\Build\Debug\x64\Render.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\opengl32.lib:
+      Searching C:\Users\jcolwell\Desktop\GameEngine\Engine\..\External\Libs\x64\glew32s.lib:
+      Searching C:\Users\jcolwell\Desktop\GameEngine\Engine\..\External\Libs\x64\glfw3.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\odbccp32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\msvcprtd.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\MSVCRTD.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\OLDNAMES.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\LIBCMT.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\MSVCRT.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\vcruntimed.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\ucrt\x64\ucrtd.lib:
+      Searching C:\Users\jcolwell\Desktop\GameEngine\Engine\..\Build\Debug\x64\Utilities.lib:
+      Searching C:\Users\jcolwell\Desktop\GameEngine\Engine\..\Build\Debug\x64\Math.lib:
+      Searching C:\Users\jcolwell\Desktop\GameEngine\Engine\..\Build\Debug\x64\Render.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\opengl32.lib:
+      Searching C:\Users\jcolwell\Desktop\GameEngine\Engine\..\External\Libs\x64\glew32s.lib:
+      Searching C:\Users\jcolwell\Desktop\GameEngine\Engine\..\External\Libs\x64\glfw3.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\odbccp32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\msvcprtd.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\MSVCRTD.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\OLDNAMES.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\LIBCMT.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\MSVCRT.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\vcruntimed.lib:
+  
+  Finished searching libraries
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  
+  Searching libraries
+      Searching C:\Users\jcolwell\Desktop\GameEngine\Engine\..\Build\Debug\x64\Utilities.lib:
+      Searching C:\Users\jcolwell\Desktop\GameEngine\Engine\..\Build\Debug\x64\Math.lib:
+      Searching C:\Users\jcolwell\Desktop\GameEngine\Engine\..\Build\Debug\x64\Render.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\opengl32.lib:
+      Searching C:\Users\jcolwell\Desktop\GameEngine\Engine\..\External\Libs\x64\glew32s.lib:
+      Searching C:\Users\jcolwell\Desktop\GameEngine\Engine\..\External\Libs\x64\glfw3.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\odbccp32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\msvcprtd.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\MSVCRTD.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\OLDNAMES.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\LIBCMT.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\MSVCRT.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\vcruntimed.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\ucrt\x64\ucrtd.lib:
+  
+  Finished searching libraries
+  
+  Searching libraries
+      Searching C:\Users\jcolwell\Desktop\GameEngine\Engine\..\Build\Debug\x64\Utilities.lib:
+      Searching C:\Users\jcolwell\Desktop\GameEngine\Engine\..\Build\Debug\x64\Math.lib:
+      Searching C:\Users\jcolwell\Desktop\GameEngine\Engine\..\Build\Debug\x64\Render.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\opengl32.lib:
+      Searching C:\Users\jcolwell\Desktop\GameEngine\Engine\..\External\Libs\x64\glew32s.lib:
+      Searching C:\Users\jcolwell\Desktop\GameEngine\Engine\..\External\Libs\x64\glfw3.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\um\x64\odbccp32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\msvcprtd.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\MSVCRTD.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\OLDNAMES.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\LIBCMT.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\MSVCRT.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\lib\x64\vcruntimed.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.15063.0\ucrt\x64\ucrtd.lib:
+  
+  Finished searching libraries
+Render.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'Render.lib(glew.obj)' or at 'C:\Users\jcolwell\Desktop\GameEngine\Build\Debug\x64\vc120.pdb'; linking object as if no debug info
+  Engine.vcxproj -> C:\Users\jcolwell\Desktop\GameEngine\Engine\..\Build\Debug\x64\Engine.exe
+  Engine.vcxproj -> C:\Users\jcolwell\Desktop\GameEngine\Engine\..\Build\Debug\x64\Engine.pdb (Partial PDB)

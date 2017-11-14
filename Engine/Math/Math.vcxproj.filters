@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Types.h" />
+    <ClInclude Include="Vector2.h" />
+    <ClInclude Include="EngineMath.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Vector2.cpp" />
+    <ClCompile Include="EngineMath.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="EngineMath.inl" />
+  </ItemGroup>
+</Project>
